@@ -15,10 +15,20 @@
 
 📚 Pursuing **Data Analytics & Data Science** at IT Vedant
 
-🌱 Currently learning
-- Advanced SQL
-- Power BI (DAX)
-- Python for Data Analysis
+## 🛠️ Skills
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Tableau
+- Data Cleaning & Data visualization 
+- Data Analysis & Dashboard Development
+
+## 🌱 Currently Learning
+- Advanced Python for Data Analytics
+- Machine Learning Fundamentals
+- Data Structures & Algorithms (Python)
+- Statistics for Data Science
 
 📫 Email: **karangarje48@gmail.com**
 
